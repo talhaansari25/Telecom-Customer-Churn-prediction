@@ -98,21 +98,27 @@ To detect early signs of potential churn, one must first develop a holistic view
 <!-- ![Churn distribution w.r.t online security](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/onlineSecurity.PNG?raw=true) -->
 
 ### 8. Senior Citizen:
-
+![Alt Text](img/i.png)
 > Most of the senior citizens churn; the number of senior citizens are very less in over all customer base.
+
 <!-- ![Churn distribution w.r.t Senior Citizen](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/seniorCitzen.PNG?raw=true) -->
 
 ### 9. Paperless Billing:
 
 > Customers with Paperless Billing are most likely to churn.
+![Alt Text](img/j.png)
 <!-- ![Churn distribution w.r.t mode of billing](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/billing.PNG?raw=true) -->
 
 ### 10. Tech support:
 
 > As shown in following chart, customers with no TechSupport are most likely to migrate to another service provider.
+![Alt Text](img/k.png)
 <!-- ![Churn distribution w.r.t Tech support](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/techSupport.PNG?raw=true) -->
 
 ### 11. Distribution w.r.t Charges and Tenure:
+![Alt Text](img/l.png)
+![Alt Text](img/m.png)
+![Alt Text](img/n.png)
 <!-- > ![Monthly Charges](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/carges%20distribution.PNG?raw=true)
 > ![Total Charges](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/total%20charges.PNG?raw=true)
 > ![Tenure](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/tenure%20and%20churn.PNG?raw=true) -->
