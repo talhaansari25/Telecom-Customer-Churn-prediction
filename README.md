@@ -12,11 +12,12 @@
 [![twitter](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/c9f9c5dc4e24eff0143b3056708d24650cbccdde/icons/iconmonstr-twitter-5.svg)][4] -->
 
 </div>
-![Alt Text](img/a.png)
+
 
 # <div align="center">Telecom Customer Churn Prediction</div>
 <!-- 
 ![Intro](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/customer%20churn.jpeg?raw=true) -->
+![Alt Text](img/a.png)
 
 
 
