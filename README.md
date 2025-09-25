@@ -171,6 +171,7 @@ Final Score
  'VotingClassifier': [0.8468096379573085, 0.010887508320460332]}
 
 ```
+![Alt Text](img/u.png)
 <!-- * Final confusion matrix we got:
 <img src= "https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/confusion%20matrix.PNG?raw=true" width = "425" /> -->
 
