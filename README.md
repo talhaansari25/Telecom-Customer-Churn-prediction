@@ -127,6 +127,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 > New customers are more likely to churn.
 
 ## Machine Learning Model Evaluations and Predictions:
+![Alt Text](img/o.png)
 <!-- ![ML Algorithms](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/Model%20evaluation.PNG?raw=true) -->
 
 <!-- #### Results after K fold cross validation:
