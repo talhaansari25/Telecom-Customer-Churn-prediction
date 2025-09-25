@@ -129,7 +129,11 @@ To detect early signs of potential churn, one must first develop a holistic view
 ## Machine Learning Model Evaluations and Predictions:
 ![Alt Text](img/o.png)
 <!-- ![ML Algorithms](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/Model%20evaluation.PNG?raw=true) -->
-
+![Alt Text](img/p.png)
+![Alt Text](img/q.png)
+![Alt Text](img/r.png)
+![Alt Text](img/s.png)
+![Alt Text](img/t.png)
 <!-- #### Results after K fold cross validation:
 
 ![Logistic Regression](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/LR.PNG?raw=true) 
