@@ -196,6 +196,7 @@ I am an AI Enthusiast and  Data science & ML practitioner
 [2]: https://www.linkedin.com/in/pradnya-patil-b049161ba/
 [3]: https://public.tableau.com/app/profile/pradnya.patil3254#!/
 [4]: https://twitter.com/Pradnya1208 -->
+[1]: https://github.com/talhaansari25
 
 
 <!-- [![github](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/c292abd3f9cc647a7edc0061193f1523e9c05e1f/icons/git.svg)][1]
